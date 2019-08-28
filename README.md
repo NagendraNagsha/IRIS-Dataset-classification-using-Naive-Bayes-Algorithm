@@ -1,1 +1,1 @@
-# implementation-naive-bayes-classification-in-python
+# IRIS Dataset classification using Naive Bayes Algorithm
